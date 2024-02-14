@@ -1,0 +1,17 @@
+[
+    {
+        "image" : "./images/news-and-blogs-image-1.jpg",
+        "author" : "rasalina",
+        "title" : "questions businnes must be able to answers"
+    },
+    {
+        "image" : "./images/news-and-blogs-image-2.jpg",
+        "author" : "rasalina",
+        "title" : "build a cool morning with cafena coffee"
+    },
+    {
+        "image" : "./images/news-and-blogs-image-3.jpg",
+        "author" : "rasalina",
+        "title" : "ideal cocktails from our barmen for perfect mood"
+    }
+]

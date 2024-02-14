@@ -1,0 +1,32 @@
+[
+    {
+        "description" : "Very good quality of food and service. Vast menu with child friendly items as well as local seafood and even entrees for those who dont like seafood. Great place! Thanks. We absolutely love everything there!",
+        "image" : "./images/person-1.jpg",
+        "userName" : "justin lindberg",
+        "userJob" : "founder & CEO"
+    },
+    {
+        "description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam placeat ducimus nobis neque aliquid odit blanditiis nam labore doloribus. Eaque.",
+        "image" : "./images/person-2.jpg",
+        "userName" : "peter parker",
+        "userJob" : "designer"
+    },
+    {
+        "description" : "impedit laudantium tempore. Veritatis pariatur veniam ut provident iusto non quidem quis. Dolore perferendis provident nulla sapiente!",
+        "image" : "./images/person-3.jpg",
+        "userName" : "john smith",
+        "userJob" : "developer"
+    },
+    {
+        "description" : "totam quia in consectetur perferendis expedita recusandae tempora! Sapiente, labore, ut optio iusto accusamus recusandae dolorum beatae accusantium, asperiores nesciunt exercitationem voluptatem eligendi ab.",
+        "image" : "./images/person-4.jpg",
+        "userName" : "mikel jordan",
+        "userJob" : "software engeenier"
+    },
+    {
+        "description" : "necessitatibus porro quia! Odio tempore molestias temporibus facere, aliquid voluptas non. Ratione obcaecati repellendus corporis mollitia quos doloribus, officia ut sit doloremque veritatis nostrum vitae. ",
+        "image" : "./images/person-5.jpg",
+        "userName" : "patrick marcos",
+        "userJob" : "data scientist"
+    }
+]
